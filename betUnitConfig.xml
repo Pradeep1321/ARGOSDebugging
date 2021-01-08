@@ -1,0 +1,18 @@
+<BetUnitData>
+  <UnitConfigurationList>
+	
+    <UnitConfiguration numUnits="243">
+      <UnitSelectMappings>
+        <UnitSelectData units="243" cost="50"/>
+      </UnitSelectMappings>
+    </UnitConfiguration>
+	
+	<UnitConfiguration numUnits="243">
+      <UnitSelectMappings>
+        <UnitSelectData units="243" cost="25"/>
+      </UnitSelectMappings>
+    </UnitConfiguration>
+	
+	
+  </UnitConfigurationList>
+</BetUnitData>
